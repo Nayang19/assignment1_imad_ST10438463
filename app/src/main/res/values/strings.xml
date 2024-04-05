@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">the_real_assignment1_imad</string>
+    <string name="textview1">Welcome</string>
+    <string name="textView2">EnterNumber</string>
+    <string name="generateHistoryButton">Generate History</string>
+    <string name="clearButton">Clear</string>
+</resources>
